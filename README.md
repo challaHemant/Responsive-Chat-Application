@@ -11,7 +11,7 @@ A responsive and visually appealing chat interface built using modern web techno
 - ✅ Dummy chat with bot replies using JavaScript
 - ✅ Smooth transitions and animations
 
-## 💡 Bonus Features (Implemented)
+##  Features (Implemented)
 
 - ✅ Typing animation for bot responses
 - ✅ Message status indicators (Sent, Received)
