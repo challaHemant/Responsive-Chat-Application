@@ -1,4 +1,4 @@
-# 💬 Responsive Chat Application (Frontend Only)
+# 💬 Responsive Chat Application 
 
 A responsive and visually appealing chat interface built using modern web technologies. This project focuses on replicating a real-world chat UI that is mobile and desktop compatible.
 
